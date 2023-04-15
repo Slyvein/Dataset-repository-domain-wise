@@ -310,6 +310,41 @@ The Cosmic Microwave Background (CMB) data repositories: These are dataset repos
 
   Youtube - https://www.reddit.com/r/datasets/comments/3gegdz/17_millions_youtube_videos_description/
 
+## Demo
+
+How to download various datasets for your projects- https://www.youtube.com/watch?v=4FZyHnMQRuc
+Some more references- https://www.youtube.com/watch?v=Q2pVjX2Umqk
+
+## FAQ
+
+#### Are the datasets freely available for access?
+
+
+While most of the sources give data for free, some may only allow you to access the data if you pay some amount
+
+#### Who can use this data?
+
+The data from the above sources can be accessed and used by any expert or a regular user.
+
+#### Do we need to have account in order to access the data?
+
+Some websites may require you to make account while some will provide you with data without any prerequisites
+
+
+## Used By
+
+This project is used by the following companies:
+
+- VESIT
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
 
 
 
